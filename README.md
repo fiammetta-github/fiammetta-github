@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Profile! 👋
 
-Hey there! I'm Fiammetta, a junior developer with a passion for coding and a keen interest in web development. Currently honing my skills as a software dev student, I'm eager to dive into the world of Back-End Development.
+Hey there! I'm Fiammetta, a junior developer with a passion for leveraging technology to solve real-world problems and contribute to innovative projects that have the potential to enrich people’s lives. Currently honing my skills as a software dev student, I'm eager to dive into the world of Back-End Development.
 
 ### About Me
 
